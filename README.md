@@ -1,7 +1,7 @@
 ## SIRAS (Security Incident Response Automated Simulations)
 Security Incident Response Automated Simulations (SIRAS) are internal/controlled actions that provide a structured opportunity to practice the incident response plan and procedures during a realistic scenarios. the main idea of SIRAS is create an detection-as-a-code testing scenarios to facilitate the blueteam/tabletops scenarios. All smokers of siras make real actions into your AWS and then delete those actions in the same execution.
 
-SIRAS is the `incident response friend` when you need to imprube your capabilitys or test your controls.
+SIRAS is the `incident response friend` when you need to test your controls/alerts :)
 
 ## How works?:
 ![alt text](images/deployment.png "SIRAS")
